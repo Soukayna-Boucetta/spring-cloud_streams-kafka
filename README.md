@@ -3,9 +3,9 @@
 Dans ce projet on va met en pratique le broker kafka et comment l'utiliser et leurs APIs alors kafka en principe fourni un
 broker généralement besoine de démarrer ce forme d'un cluster donc on peut démarrer plusieure instance de broker kafka
 et pour  coordonner ces instances kafka besoin d'un utile qui s'appele zookeeper et aussi dans l'API kafka contiene
-producer API qui permet à n'importe quel application d'envoyer des messages
-consumer API qui permet à n'importe quel application de consumer des données ou des  messages
-streams API qui permet de faire des traitement en temp réelle
+producer API qui permet à n'importe quel application d'envoyer des messages,
+consumer API qui permet à n'importe quel application de consumer des données ou des  messages,
+streams API qui permet de faire des traitement en temp réelle,et
 connector API qui permet de connecter le cluster kafka avec autres systèmes comme les base de données
 
 1- kafka fournit des outils comme kafka-console-consumer
